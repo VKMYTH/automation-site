@@ -14,7 +14,6 @@ import "react-vertical-timeline-component/style.min.css";
 const App = () => (
   <div className="App">
     <div className="gradient__bg">
-      <Navbar />
       <Header />
     </div>
     <WhatComp />
